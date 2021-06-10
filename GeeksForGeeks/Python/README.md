@@ -1,1 +1,2 @@
-
+- [Find minimum and maximum element in an array [PYTHON]](Find_minimum_and_maximum_element_in_an_array.py)
+- [Union of two arrays [PYTHON]](Union_of_two_arrays.py)
