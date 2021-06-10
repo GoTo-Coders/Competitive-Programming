@@ -59,6 +59,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Number of 1 Bits [CPP]](Number_of_1_Bits.cpp)
 - [Pairs with given sum in doubly linked list [CPP]](Pairs_with_given_sum_in_doubly_linked_list.cpp)
 - [Palindrome String [CPP]](Palindrome_String.cpp)
+- [Predecessor and Successor of BST [CPP]](Predecessor_and_Successor.cpp)
 - [Preorder of Tree Iterative [CPP]](Preorder_of_Tree_Iterative.cpp)
 - [Print nodes between two given levels of Binary Tree [CPP]](Print_nodes_between_two_given_levels_of_Binary_Tree.cpp)
 - [Print nodes between two given levels of Binary Tree using Queue [CPP]](Print_nodes_between_two_given_levels_of_Binary_Tree_using_Queue.cpp)
