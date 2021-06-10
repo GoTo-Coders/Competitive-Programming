@@ -89,7 +89,6 @@ Please create an issue if you wish to add code in a language that is not current
 - [Transform to Sum Tree [CPP]](Transform_to_Sum_Tree.cpp)
 - [Triplet Sum in Array [CPP]](Triplet_Sum_in_Array.cpp)
 - [Union of two arrays [CPP]](Union_of_two_arrays.cpp)
-- [Union of two arrays [PYTHON]](Union_of_two_arrays.py)
 - [Value equal to Index value [CPP]](Value_equal_to_Index_value.cpp)
 - [ZigZag Tree Traversal [CPP]](ZigZag_Tree_Traversal.cpp) 
 
