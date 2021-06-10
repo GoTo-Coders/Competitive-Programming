@@ -14,6 +14,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Check if a given graph is tree or not[CPP]](Check_if_a_given_graph_is_tree_or_not.cpp)
 - [Check if Circular Linked List [CPP]](Check_If_Circular_Linked_List.cpp)
 - [Check Mirror in N-ary tree [CPP]](Check_Mirror_in_N-ary_tree.cpp)
+- [Check for BST](Check_for_BST.cpp)
 - [Check for Balanced Tree [CPP]](Check_for_Balanced_Tree.cpp)
 - [Check if Linked List is Palindrome [CPP]](Check_if_Linked_List_is_Palindrome.cpp)
 - [Common elements [CPP]](Common_elements.cpp)
