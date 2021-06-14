@@ -12,9 +12,21 @@ We bring amazing people together to code algorithms and share our work for the b
 
 ### Platforms:
   - [GeeksForGeeks](/GeeksForGeeks)
+      - [C++](https://github.com/GoTo-Coders/Competitive-Programming/tree/main/GeeksForGeeks/C%20Plus%20Plus)
+      - [Java](/GeeksForGeeks/Java)
+      - [Python](/GeeksForGeeks/Python)
   - [HackerEarth](/HackerEarth)
+      - [C++](https://github.com/GoTo-Coders/Competitive-Programming/tree/main/HackerEarth/C%20Plus%20Plus)
+      - [Java](/HackerEarth/Java)
+      - [Python](/HackerEarth/Python)
   - [HackerRank](/HackerRank)
+      - [C++](https://github.com/GoTo-Coders/Competitive-Programming/tree/main/HackerRank/C%20Plus%20Plus)
+      - [Java](/HackerRank/Java)
+      - [Python](/HackerRank/Python)
   - [LeetCode](/LeetCode)
+      - [C++](https://github.com/GoTo-Coders/Competitive-Programming/tree/main/LeetCode/C%20Plus%20Plus)
+      - [Java](/LeetCodes/Java)
+      - [Python](/LeetCode/Python)
   - [Other Platforms](/Others)
 
 ## Guidelines for contribution:
