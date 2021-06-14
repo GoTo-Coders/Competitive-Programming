@@ -10,6 +10,13 @@ It is our goal to provide access to well written, well-explained programs and kn
 We want to enable people to adapt and change code according to their own ideas through an Open Access approach. 
 We bring amazing people together to code algorithms and share our work for the benefit of all.
 
+### Platforms:
+  - [GeeksForGeeks](/GeeksForGeeks)
+  - [HackerEarth](/HackerEarth)
+  - [HackerRank](/HackerRank)
+  - [LeetCode](/LeetCode)
+  - [Other Platforms](/Others)
+
 ## Guidelines for contribution:
 - Plagiarism is strictly not allowed. Any work that is found to be suspicious of plagiarized work will not be merged.
 - Issues will be assigned on a first come, first serve basis. You just have to comment on the issue, asking to be assigned, and it will be done if found fit.
