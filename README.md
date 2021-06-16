@@ -59,8 +59,8 @@ within the Python folder and so on)
 - **Under no circumstances create new folders within the language folders to upload your code unless specifically told to do so.**
 - Also, be polite with the reviewers - they will be ALWAYS polite to you.
 
-## Our Contributors:
-- Sushant Gaurav
-- Ankit Singh Rajput
+## Our Contributors
+
+[CONTRIBUTORS.md](https://github.com/GoTo-Coders/Competitive-Programming/blob/main/CONTRIBUTORS.md)
 
 
