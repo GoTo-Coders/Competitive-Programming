@@ -3,6 +3,7 @@ Problem Statement:
 ------------------
 Given a binary tree. Check whether it is a BST or not.
 Note: We are considering that BSTs can not contain duplicate Nodes.
+
 Example 1:
 ---------
 Input:
