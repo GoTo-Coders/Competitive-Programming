@@ -1,6 +1,22 @@
-# Comptitive programming.
+# Comptitive Programming.
 
-![GoTo coders](https://github.com/GoTo-Coders/GoTo-Coders.github.io/blob/main/logo.jpg )
+<p align="center">
+<img src="https://github.com/GoTo-Coders/GoTo-Coders.github.io/blob/main/logo.jpg" width="500px">
+</p>
+
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=orange">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=orange">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+</p>
+<p align="center">
+<a href="https://github.com/GoTo-Coders/Competitive-Programming/blob/main/LICENSE.md" target="_blank"><img src="https://img.shields.io/github/license/GoTo-Coders/Competitive-Programming?style=for-the-badge" /></a> 
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"/> 
+<a href="https://github.com/GoTo-Coders/Competitive-Programming/pulls" target="_blank"> <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/GoTo-Coders/Competitive-Programming?style=for-the-badge" /></a> 
+<a href="https://github.com/GoTo-Coders/Competitive-Programming/issues" target="_blank"><img alt="GitHub open issues" src="https://img.shields.io/github/issues/GoTo-Coders/Competitive-Programming?style=for-the-badge" /></a>
+</p>
   
 ## Our Goal:
 The goal of this project is to have in a single place for all possible **Competitive Programming Solution** - in multiple languages. 
