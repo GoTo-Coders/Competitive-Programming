@@ -4,19 +4,24 @@
 <img src="https://github.com/GoTo-Coders/GoTo-Coders.github.io/blob/main/logo.jpg" width="500px">
 </p>
 
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=orange">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=orange">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
-</p>
-<p align="center">
-<a href="https://github.com/GoTo-Coders/Competitive-Programming/blob/main/LICENSE.md" target="_blank"><img src="https://img.shields.io/github/license/GoTo-Coders/Competitive-Programming?style=for-the-badge" /></a> 
-<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"/> 
-<a href="https://github.com/GoTo-Coders/Competitive-Programming/pulls" target="_blank"> <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/GoTo-Coders/Competitive-Programming?style=for-the-badge" /></a> 
-<a href="https://github.com/GoTo-Coders/Competitive-Programming/issues" target="_blank"><img alt="GitHub open issues" src="https://img.shields.io/github/issues/GoTo-Coders/Competitive-Programming?style=for-the-badge" /></a>
-</p>
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=orange)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=orange)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+
+[![GitHub closed issues](https://img.shields.io/github/issues-raw/GoTo-Coders/Competitive-Programming.svg?style=for-the-badge)](https://github.com/GoTo-Coders/DS-Algo/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/GoTo-Coders/Competitive-Programming.svg?style=for-the-badge)](https://github.com/GoTo-Coders/DS-Algo/issues)
+
+![PRS Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/GoTo-Coders/Competitive-Programming.svg?style=for-the-badge)](https://github.com/GoTo-Coders/DS-Algo/pulls)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr-closed/GoTo-Coders/Competitive-Programming.svg?style=for-the-badge)](https://github.com/GoTo-Coders/DS-Algo/pulls)
+
+[![license](https://img.shields.io/github/license/GoTo-Coders/Competitive-Programming.svg?style=for-the-badge)](https://github.com/GoTo-Coders/Competitive-Programming/blob/main/LICENSE.md)
+[![GitHub forks](https://img.shields.io/github/forks/GoTo-Coders/Competitive-Programming.svg?style=for-the-badge)](https://GitHub.com/GoTo-Coders/Competitive-Programming/network/)
+[![GitHub stars](https://img.shields.io/github/stars/GoTo-Coders/Competitive-Programming.svg?style=for-the-badge)](https://GitHub.com/GoTo-Coders/Competitive-Programming/stargazers/)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GoTo-Coders/Competitive-Programming.svg?style=for-the-badge)
+[![GitHub contributors](https://img.shields.io/github/contributors/GoTo-Coders/Competitive-Programming.svg?style=for-the-badge)](https://GitHub.com/GoTo-Coders/Competitive-Programming/graphs/contributors/)
+
   
 ## Our Goal:
 The goal of this project is to have in a single place for all possible **Competitive Programming Solution** - in multiple languages. 
