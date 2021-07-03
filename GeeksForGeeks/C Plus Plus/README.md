@@ -101,6 +101,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Postorder of Tree Iterative-1 using Stack [CPP]](Postorder_of_Tree_Iterative-1_Stack.cpp)
 - [Postorder of Tree Iterative-2 using Stack [CPP]](Postorder_of_Tree_Iterative-2_Stack.cpp)
 - [Quick Sort on Linked List [CPP]](Quick_Sort_on_Linked_List.cpp)
+- [Rearrange Array with 0(1) extra space [CPP]](Rearrange_Array_with_0(1)_extra_space.cpp)
 - [Remove_duplicate_element from sorted Linked List [CPP]](Remove_duplicate_element_from_sorted_Linked_List.cpp)
 - [Remove duplicates from an unsorted linked list [CPP]](Remove_duplicates_from_an_unsorted_linked_list.cpp)
 - [Remove loop in Linked List [CPP]](Remove_loop_in_Linked_List.cpp)
