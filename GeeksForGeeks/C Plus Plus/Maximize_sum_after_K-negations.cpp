@@ -1,6 +1,6 @@
 /*
 Problem Statement:
-------------------
+-----------------
 Given an array of integers of size N and a number K., Your must modify array arr[] exactly K number of times. 
 Here modify array means in each operation you can replace any array element either arr[i] by -arr[i] or -arr[i] by arr[i]. 
 You need to perform this operation in such a way that after K operations, the sum of the array must be maximum.
