@@ -53,6 +53,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Flatten BST to a sorted list [CPP]](Flatten_BST_to_sorted_list.cpp)
 - [Flattening a Linked List [CPP]](Flattening_a_Linked_List.cpp)
 - [Given a linked list of 0s, 1s and 2s, sort it. [CPP]](Given_a_linked_list_of_0s_1s_and_2s-sort_it.cpp)
+- [Height of Binary Tree Iterative Approach[CPP]](Height_Binary_Tree_Iterative.cpp) 
 - [Height of Binary Tree [CPP]](Height_of_Binary_Tree.cpp) 
 - [Inorder of Tree Iterative [CPP]](Inorder_of_Tree_Iterative.cpp)
 - [Insert a node in a BST [CPP]](Insert_a_node_in_a_BST.cpp)
