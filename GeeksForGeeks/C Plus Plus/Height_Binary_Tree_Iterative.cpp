@@ -55,7 +55,6 @@ class BinaryTree
         }
         BinaryTree *create();
         int Height(BinaryTree*);
-
 };
 
 //Recursion based create() method to implement binary tree.
@@ -124,12 +123,8 @@ int BinaryTree::Height(BinaryTree *root){
                 queue.push(root->right);
 
             nodeCount--;
-        }
-            
-
+	}
     }
-    
-
 }
 
 int main()
