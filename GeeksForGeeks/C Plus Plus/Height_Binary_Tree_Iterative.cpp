@@ -142,3 +142,8 @@ int main()
     
     return 0;
 }
+
+/*
+	Time Complexity for finding the height of binary tree: O(n)
+	Space Complexity: O(n)
+*/
