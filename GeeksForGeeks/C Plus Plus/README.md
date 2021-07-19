@@ -119,6 +119,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Program for Shortest Job First [CPP]](Program_for_Shortest_Job_First.cpp)
 - [Quick Sort on Linked List [CPP]](Quick_Sort_on_Linked_List.cpp)
 - [Rearrange Array with 0(1) extra space [CPP]](Rearrange_Array_with_0(1)_extra_space.cpp)
+- [Rearrange Characters [CPP]](Rearrange_characters.cpp)
 - [Remove duplicate element from sorted Linked List [CPP]](Remove_duplicate_element_from_sorted_Linked_List.cpp)
 - [Remove duplicates from an unsorted linked list [CPP]](Remove_duplicates_from_an_unsorted_linked_list.cpp)
 - [Remove loop in Linked List [CPP]](Remove_loop_in_Linked_List.cpp)
