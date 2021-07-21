@@ -62,6 +62,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Height of Binary Tree Iterative Approach[CPP]](Height_Binary_Tree_Iterative.cpp) 
 - [Height of Binary Tree [CPP]](Height_of_Binary_Tree.cpp) 
 - [Huffman Encoding [CPP]](Huffman_Encoding.cpp)
+- [Implement two stacks in an array [CPP]](Implement_two_stacks_in_an_array.cpp)
 - [Inorder of Tree Iterative [CPP]](Inorder_of_Tree_Iterative.cpp)
 - [Insert a node in a BST [CPP]](Insert_a_node_in_a_BST.cpp)
 - [Intersection Point in Y Shaped Linked Lists [CPP]](Intersection_Point_in_Y_Shaped_Linked_Lists.cpp)
