@@ -84,7 +84,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Level Order Traversal [CPP]](Level_Order_Traversal.cpp)
 - [Lowest Common Ancestor in BST [CPP]](Lowest_Common_Ancestor_in_BST.cpp)
 - [Lowest Common Ancestor in a Binary Tree [CPP]](Lowest_Common_Ancestor_in_a_Binary_Tree.cpp)
-- [Maximize sum arr[i]*i of an Array [CPP]](Maximize_sum_arrii_of_an_Array.cpp)
+- [Maximize sum arr[i]*i of an Array [CPP]](Maximize_sum_arr[i]*i_of_an_Array.cpp)
 - [Maximize sum after K negations [CPP]](Maximize_sum_after_K-negations.cpp)
 - [Maximum Rectangular Area in a Histogram [CPP]](Maximum_Rectangular_Area_in_a_Histogram.cpp)
 - [Maximum Stocks if i stocks to be bought on i-th day [CPP]](Maximum_Stocks_if_i_stocks_bought_on_i-th_day.cpp)
