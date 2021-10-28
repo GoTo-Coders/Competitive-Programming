@@ -5,4 +5,5 @@ The goal is to have in a single place for all possible **HackerEarth** : **Compe
 Please create an issue if you wish to add code in a language that is not currently here. Do not create folders in your submissions unless specifically told to do so.
 
 # Problems:
+- [Oliver and the Game [CPP]](Oliver_and_the_game.cpp)
 
