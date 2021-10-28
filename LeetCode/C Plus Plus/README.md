@@ -20,6 +20,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Reverse String [CPP]](344.Reverse_String.cpp)
 - [Search in a 2D Matrix [CPP]](74.Search_a_2D_Matrix.cpp)
 - [Search in a 2D Matrix-II [CPP]](240.Search_a_2D_Matrix-II.cpp)
+- [Water and Jug Problem [CPP]](365.Water_and_Jug_Problem.cpp)
 - [Word Ladder [CPP]](127.Word_Ladder.cpp)
 
 
