@@ -9,3 +9,4 @@ Please create an issue if you wish to add code in a language that is not current
 - [Division [Python]](Python-Division.py)
 - [If-Else [Python]](Python_If-Else.py)
 - [Loops [Python]](Loops.py)
+- [Write a function[Python]](Write_a_function.py)
