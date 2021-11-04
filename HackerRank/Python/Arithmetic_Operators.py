@@ -1,6 +1,6 @@
-// Link --> https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=false
+# Link --> https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=false
 
-// Code:
+# Code:
 def operatre(a, b):
     print(a + b)
     print(a - b)
