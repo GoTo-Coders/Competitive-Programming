@@ -1,6 +1,6 @@
-// Link --> https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
+# Link --> https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
 
-// Code:
+# Code:
 def check_even_odd(n):
     if n % 2 != 0 or (n % 2 == 0 and n in range(6, 21)):
         print("Weird")
