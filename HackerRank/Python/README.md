@@ -8,4 +8,4 @@ Please create an issue if you wish to add code in a language that is not current
 - [Arithmetic Operators [Python]](Arithmetic_Operators.py)
 - [Division [Python]](Python-Division.py)
 - [If-Else [Python]](Python_If-Else.py)
-- 
+- [Loops [Python]](Loops.py)
