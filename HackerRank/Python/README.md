@@ -7,6 +7,9 @@ Please create an issue if you wish to add code in a language that is not current
 # Problems:
 - [Arithmetic Operators [Python]](Arithmetic_Operators.py)
 - [Division [Python]](Python-Division.py)
+- [Find the Runner-Up Score [Python]](Find_the_Runner-Up_Score.py)
 - [If-Else [Python]](Python_If-Else.py)
+- [List Comprehensions [Python]](List-Comprehensions.py)
 - [Loops [Python]](Loops.py)
+- [Print [Python]](Python-Print.cpp)
 - [Write a function[Python]](Write_a_function.py)
