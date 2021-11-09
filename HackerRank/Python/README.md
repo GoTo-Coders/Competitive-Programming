@@ -11,6 +11,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Finding the percentage [Python]](Finding_the_percentage.py)
 - [If-Else [Python]](Python_If-Else.py)
 - [List Comprehensions [Python]](List-Comprehensions.py)
+- [Lists [Python]](Lists.py)
 - [Loops [Python]](Loops.py)
 - [Nested List [Python]](Nested-List.py)
 - [Print [Python]](Python-Print.cpp)
