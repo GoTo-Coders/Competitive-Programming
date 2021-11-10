@@ -1,4 +1,4 @@
-# Link --> https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
+# Link --> https://www.hackerrank.com/challenges/py-if-else/problem
 
 # Code:
 def check_even_odd(n):
