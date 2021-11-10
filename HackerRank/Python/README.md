@@ -17,6 +17,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Mutations [Python]](Mutations.py)
 - [Nested List [Python]](Nested-List.py)
 - [Print [Python]](Python-Print.cpp)
+- [String Validators [Python]](String-Validators.py)
 - [String Split and Join [Python]](String_Split_and_Join.py)
 - [sWAP cASE [Python]](sWAP_cASE.py)
 - [Tuples [Python]](Tuples.py)
