@@ -1,4 +1,4 @@
-# Link --> https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true
+# Link --> https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
 
 # Code:
 if __name__ == '__main__':
