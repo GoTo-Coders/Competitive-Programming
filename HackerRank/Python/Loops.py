@@ -1,4 +1,4 @@
-# Link --> https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true
+# Link --> https://www.hackerrank.com/challenges/python-loops/problem
 
 # Code:
 if __name__ == '__main__':
