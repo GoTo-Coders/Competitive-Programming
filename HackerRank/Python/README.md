@@ -7,6 +7,7 @@ Please create an issue if you wish to add code in a language that is not current
 # Problems:
 - [Arithmetic Operators [Python]](Arithmetic_Operators.py)
 - [Division [Python]](Python-Division.py)
+- [Find a string [Python]](Find_a_string.py)
 - [Find the Runner-Up Score [Python]](Find_the_Runner-Up_Score.py)
 - [Finding the percentage [Python]](Finding_the_percentage.py)
 - [If-Else [Python]](Python_If-Else.py)
