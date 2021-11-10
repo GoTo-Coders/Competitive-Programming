@@ -1,4 +1,4 @@
-# Link --> https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=false
+# Link --> https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
 
 # Code:
 def operatre(a, b):
