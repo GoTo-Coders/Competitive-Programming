@@ -1,4 +1,4 @@
-# Link --> https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true
+# Link --> https://www.hackerrank.com/challenges/nested-list/problem
 
 # Code:
 score_list = []
