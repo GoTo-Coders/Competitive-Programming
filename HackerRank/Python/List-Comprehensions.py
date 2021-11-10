@@ -1,4 +1,4 @@
-# Link --> https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true
+# Link --> https://www.hackerrank.com/challenges/list-comprehensions/problem
 
 # Code:
 if __name__ == '__main__':
