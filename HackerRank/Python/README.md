@@ -13,6 +13,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [List Comprehensions [Python]](List-Comprehensions.py)
 - [Lists [Python]](Lists.py)
 - [Loops [Python]](Loops.py)
+- [Mutations [Python]](Mutations.py)
 - [Nested List [Python]](Nested-List.py)
 - [Print [Python]](Python-Print.cpp)
 - [String Split and Join [Python]](String_Split_and_Join.py)
