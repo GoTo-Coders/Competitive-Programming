@@ -15,5 +15,6 @@ Please create an issue if you wish to add code in a language that is not current
 - [Loops [Python]](Loops.py)
 - [Nested List [Python]](Nested-List.py)
 - [Print [Python]](Python-Print.cpp)
+- [sWAP cASE [Python]](sWAP_cASE.py)
 - [Tuples [Python]](Tuples.py)
 - [Write a function[Python]](Write_a_function.py)
