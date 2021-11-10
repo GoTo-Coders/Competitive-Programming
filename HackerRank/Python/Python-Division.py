@@ -1,4 +1,4 @@
-# Link --> https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=false
+# Link --> https://www.hackerrank.com/challenges/python-division/problem
 
 # Code:
 if __name__ == '__main__':
