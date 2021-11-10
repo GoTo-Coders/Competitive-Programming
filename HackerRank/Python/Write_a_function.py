@@ -1,4 +1,4 @@
-# Link --> https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=false
+# Link --> https://www.hackerrank.com/challenges/write-a-function/problem
 
 # Code:
 def is_leap(year):
