@@ -21,6 +21,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [String Split and Join [Python]](String_Split_and_Join.py)
 - [sWAP cASE [Python]](sWAP_cASE.py)
 - [Text Alignment[Python]](Text_Alignment.py)
+- [Text Wrap [Python]](Text_Wrap.py)
 - [Tuples [Python]](Tuples.py)
 - [What's Your Name [Python]](Whats_Your_Name.py)
 - [Write a function[Python]](Write_a_function.py)
