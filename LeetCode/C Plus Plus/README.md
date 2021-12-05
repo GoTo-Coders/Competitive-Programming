@@ -16,6 +16,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Merge Intervals [CPP]](56.Merge_Intervals.cpp)
 - [Middle of the Linked List [CPP]](876.Middle_of_the_Linked_List.cpp)
 - [Number of Operations to Make Network Connected [CPP]](1319.Number_of_Operations_to_Make_Network_Connected.cpp)
+- [Remove Nth Node From End of List [CPP]](19.Remove_Nth_Node_From_End_of_List.cpp)
 - [Replace Elements with Greatest Element on Right Side [CPP]](1299.Replace_Elements_with_Greatest_Element_on_Right_Side.cpp)
 - [Reverse String [CPP]](344.Reverse_String.cpp)
 - [Search in a 2D Matrix [CPP]](74.Search_a_2D_Matrix.cpp)
