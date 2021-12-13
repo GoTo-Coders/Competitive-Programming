@@ -7,4 +7,5 @@ Please create an issue if you wish to add code in a language that is not current
 # Problems:
 
 - [Linked List Cycle [JAVA]](141.LinkedListCycle.java)
+- [N-Queens [JAVA]](51.N-Queens.java)
 - [Palindrome Linked List [JAVA]](234.PalindromeLinkedList.java)
