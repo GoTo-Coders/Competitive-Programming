@@ -102,6 +102,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Median of BST without extra-space and in O(n) time [CPP]](Median_of_BST_without_extra-space.cpp)
 - [Merge K sorted linked lists [CPP]](Merge_K-sorted_linked_lists.cpp)
 - [Merge Overlapping Intervals [CPP]](Merge_Overlapping_Intervals.cpp)
+- [Merge Two Sorted Lists [CPP]](Merge_Two_Sorted_Lists.cpp)
 - [Merge two BST's [CPP]](Merge_two_BST.cpp)
 - [Merge two Balanced BSTs [CPP]](Merge_two_balanced_BSTs.cpp)
 - [Middle of Three [CPP]](Middle_of_Three.cpp)
