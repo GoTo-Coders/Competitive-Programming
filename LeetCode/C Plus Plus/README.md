@@ -14,6 +14,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Linked List Cycle [CPP]](141.Linked_List_Cycle.cpp)
 - [Maximum Level Sum of Binary Tree [CPP]](1161.Maximum_Level_Sum_of_Binary_Tree.cpp)
 - [Merge Intervals [CPP]](56.Merge_Intervals.cpp)
+- [Merge Two Sorted Lists [CPP]](21.Merge_Two_Sorted_Lists.cpp)
 - [Middle of the Linked List [CPP]](876.Middle_of_the_Linked_List.cpp)
 - [Number of Operations to Make Network Connected [CPP]](1319.Number_of_Operations_to_Make_Network_Connected.cpp)
 - [Remove Nth Node From End of List [CPP]](19.Remove_Nth_Node_From_End_of_List.cpp)
