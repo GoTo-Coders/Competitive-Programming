@@ -8,6 +8,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [2D Array - DS [Python]](2D_Array-DS.py)
 - [Arithmetic Operators [Python]](Arithmetic_Operators.py)
 - [Arrays - DS [Python]](Arrays-DS.py)
+- [Cycle Detection [Python]](Cycle_Detection.py)
 - [Division [Python]](Python-Division.py)
 - [Find a string [Python]](Find_a_string.py)
 - [Find the Runner-Up Score [Python]](Find_the_Runner-Up_Score.py)
