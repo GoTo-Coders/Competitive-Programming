@@ -14,6 +14,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Finding the percentage [Python]](Finding_the_percentage.py)
 - [If-Else [Python]](Python_If-Else.py)
 - [Insert a Node at the Tail of a Linked List [Python]](Insert_a_Node_at_the_Tail_of_a_Linked-List.py)
+- [Insert a node at the head of a linked list [Python]](Insert_a_node_at_the_head_of_a_linked_list.py)
 - [Left Rotation [Python]](Left_Rotation.py)
 - [List Comprehensions [Python]](List-Comprehensions.py)
 - [Lists [Python]](Lists.py)
