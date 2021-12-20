@@ -24,6 +24,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Nested List [Python]](Nested-List.py)
 - [Print the Elements of a Linked List [Python]](Print_the_Elements_of_a_Linked-List.py)
 - [Print [Python]](Python-Print.cpp)
+- [Sparse Arrays [Python]](Sparse_Arrays.py)
 - [String Validators [Python]](String-Validators.py)
 - [String Split and Join [Python]](String_Split_and_Join.py)
 - [sWAP cASE [Python]](sWAP_cASE.py)
