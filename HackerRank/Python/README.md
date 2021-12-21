@@ -24,6 +24,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Loops [Python]](Loops.py)
 - [Mutations [Python]](Mutations.py)
 - [Nested List [Python]](Nested-List.py)
+- [Print in Reverse [Python]](Print_in_Reverse.py)
 - [Print the Elements of a Linked List [Python]](Print_the_Elements_of_a_Linked-List.py)
 - [Print [Python]](Python-Print.cpp)
 - [Sparse Arrays [Python]](Sparse_Arrays.py)
