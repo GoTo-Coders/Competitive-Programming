@@ -24,6 +24,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [List Comprehensions [Python]](List-Comprehensions.py)
 - [Lists [Python]](Lists.py)
 - [Loops [Python]](Loops.py)
+- [Merge two sorted linked lists [Python]](Merge_two_sorted_linked_lists.py)
 - [Mutations [Python]](Mutations.py)
 - [Nested List [Python]](Nested-List.py)
 - [Print in Reverse [Python]](Print_in_Reverse.py)
