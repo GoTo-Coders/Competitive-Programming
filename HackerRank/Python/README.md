@@ -34,6 +34,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Print the Elements of a Linked List [Python]](Print_the_Elements_of_a_Linked-List.py)
 - [Print [Python]](Python-Print.cpp)
 - [Python If-Else [Python]](Python_If-Else.py)
+- [Reverse a doubly linked list [Python]](Reverse_a_doubly_linked_list.py)
 - [Reverese a linked list [Python]](Reverse_a_linked_list.py)
 - [Sparse Arrays [Python]](Sparse_Arrays.py)
 - [String Validators [Python]](String-Validators.py)
