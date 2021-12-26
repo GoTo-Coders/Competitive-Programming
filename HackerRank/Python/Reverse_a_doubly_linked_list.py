@@ -14,3 +14,25 @@ def reverse(head):
         newHead.insert_node(nodes[i])
     
     return newHead.head
+
+
+
+# OTHER WAY (without using extra list):
+def reverse(head):
+    previous = head
+    current = head
+    
+    while current:
+        previous = current.prev
+        
+        # Swapping left and right nodes:
+        current.prev = current.next
+        current.next = previous
+        
+        # Finally moving current to rightward:
+        current = current.prev
+        
+    if previous:
+        head = previous.prev    
+        
+    return head
