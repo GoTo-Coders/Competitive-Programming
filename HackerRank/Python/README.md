@@ -18,6 +18,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Find the Runner-Up Score [Python]](Find_the_Runner-Up_Score.py)
 - [Finding the percentage [Python]](Finding_the_percentage.py)
 - [Get Node Value [Python]](Get_Node_Value.py)
+- [Inorder Traversal [Python]](Inorder_Traversal.py)
 - [If-Else [Python]](Python_If-Else.py)
 - [Insert a Node at the Tail of a Linked List [Python]](Insert_a_Node_at_the_Tail_of_a_Linked-List.py)
 - [Insert a node at a specific position in a linked list [Python]](Insert_a_node_at_a_specific_position_in_a_linked_list.py)
