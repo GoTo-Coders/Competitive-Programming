@@ -29,6 +29,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Inserting a Node Into a Sorted Doubly Linked List [Python]](Inserting_a_Node_Into_a_Sorted_Doubly_Linked_List.py)
 - [itertools.product() [Python]](itertools-product().py)
 - [Left Rotation [Python]](Left_Rotation.py)
+- [Let's Review: 30 Days of Code [Python]](Let's_Review.py)
 - [Level Order Traversal [Python]](Level_Order_Traversal.py)
 - [List Comprehensions [Python]](List-Comprehensions.py)
 - [Lists [Python]](Lists.py)
