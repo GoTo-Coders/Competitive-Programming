@@ -33,6 +33,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [List Comprehensions [Python]](List-Comprehensions.py)
 - [Lists [Python]](Lists.py)
 - [Loops [Python]](Loops.py)
+- [Loops: 30 Days of Code [Python]](Loops-30days.py)
 - [Merge two sorted linked lists [Python]](Merge_two_sorted_linked_lists.py)
 - [Mutations [Python]](Mutations.py)
 - [Nested List [Python]](Nested-List.py)
