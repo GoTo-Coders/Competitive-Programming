@@ -35,6 +35,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Merge two sorted linked lists [Python]](Merge_two_sorted_linked_lists.py)
 - [Mutations [Python]](Mutations.py)
 - [Nested List [Python]](Nested-List.py)
+- [Operators: 30 Days of Code [Python]](Operators.py)
 - [Postorder Traversal [Python]](Postorder_Traversal.py)
 - [Preorder Traversal [Python]](Preorder_Traversal.py)
 - [Print in Reverse [Python]](Print_in_Reverse.py)
