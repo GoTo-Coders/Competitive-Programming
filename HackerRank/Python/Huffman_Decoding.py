@@ -16,3 +16,4 @@ def decodeHuff(root, s):
             current = root
     
     print(answer)
+    
