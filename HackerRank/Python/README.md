@@ -53,6 +53,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [String Validators [Python]](String-Validators.py)
 - [String Split and Join [Python]](String_Split_and_Join.py)
 - [sWAP cASE [Python]](sWAP_cASE.py)
+- [Swap Nodes[Algo] [Python]](Swap_Nodes.py)
 - [Text Alignment [Python]](Text_Alignment.py)
 - [Text Wrap [Python]](Text_Wrap.py)
 - [Tuples [Python]](Tuples.py)
