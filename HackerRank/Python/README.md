@@ -8,6 +8,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [2D Array - DS [Python]](2D_Array-DS.py)
 - [Arithmetic Operators [Python]](Arithmetic_Operators.py)
 - [Arrays - DS [Python]](Arrays-DS.py)
+- [Arrays: 30 Days of Code [Python]](Arrays.py)
 - [Binary Search Tree : Insertion [Python]](Binary_Search_Tree-Insertion.py)
 - [Cycle Detection [Python]](Cycle_Detection.py)
 - [Compare two linked lists [Python]](Compare_two_linked_lists.py)
@@ -60,3 +61,5 @@ Please create an issue if you wish to add code in a language that is not current
 - [Tuples [Python]](Tuples.py)
 - [What's Your Name [Python]](Whats_Your_Name.py)
 - [Write a function [Python]](Write_a_function.py)
+
+
