@@ -4,7 +4,6 @@
 x = int(input())
 
 dictt = {}
-
 for i in range(x):
     user = input().split()
     dictt[user[0]] = user[1]
