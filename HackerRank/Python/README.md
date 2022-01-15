@@ -15,6 +15,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Delete a Node [Python]](Delete_a_Node.py)
 - [Find Merge Point of Two Lists [Python]](Find_Merge_Point_of_Two_Lists.py)
 - [Delete duplicate-value nodes from a sorted linked list [Python]](Delete_duplicate-value_nodes_from_a_sorted_linked_list.py)
+- [Dictionaries and Maps: 30 Days of Code [Python]](Dictionaries_and_Maps.py)
 - [Division [Python]](Python-Division.py)
 - [Find a string [Python]](Find_a_string.py)
 - [Find the Runner-Up Score [Python]](Find_the_Runner-Up_Score.py)
