@@ -6,6 +6,7 @@ Please create an issue if you wish to add code in a language that is not current
 
 # Problems:
 - [2D Array - DS [Python]](2D_Array-DS.py)
+- [2D Array: 30 Days of Code [Python]](2D_Array.py)
 - [Arithmetic Operators [Python]](Arithmetic_Operators.py)
 - [Arrays - DS [Python]](Arrays-DS.py)
 - [Arrays: 30 Days of Code [Python]](Arrays.py)
