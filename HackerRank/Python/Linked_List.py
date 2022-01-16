@@ -6,7 +6,6 @@ def insert(self,head,data):
         # When the list empty
         if head == None:
             head = newNode
-        
         # When there are elements in the list
         else:
             current_Node = head
