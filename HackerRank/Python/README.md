@@ -9,6 +9,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Arithmetic Operators [Python]](Arithmetic_Operators.py)
 - [Arrays - DS [Python]](Arrays-DS.py)
 - [Arrays: 30 Days of Code [Python]](Arrays.py)
+- [Binary Numbers: 30 Days of Code [Python]](Binary_Numbers.py)
 - [Binary Search Tree : Insertion [Python]](Binary_Search_Tree-Insertion.py)
 - [Cycle Detection [Python]](Cycle_Detection.py)
 - [Compare two linked lists [Python]](Compare_two_linked_lists.py)
