@@ -26,6 +26,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Height of a Binary Tree [Python]](Height_of_a_Binary_Tree.py)
 - [Hello, World: 30 Days of Code [Python]](Hello,World.py)
 - [Huffman Decoding [Python]](Huffman_Decoding.py)
+- [Inheritance: 30 Days of Code [Python]](Inheritance.py)
 - [Inorder Traversal [Python]](Inorder_Traversal.py)
 - [If-Else [Python]](Python_If-Else.py)
 - [Insert a Node at the Tail of a Linked List [Python]](Insert_a_Node_at_the_Tail_of_a_Linked-List.py)
