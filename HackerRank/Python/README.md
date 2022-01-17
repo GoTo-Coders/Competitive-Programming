@@ -20,6 +20,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Delete duplicate-value nodes from a sorted linked list [Python]](Delete_duplicate-value_nodes_from_a_sorted_linked_list.py)
 - [Dictionaries and Maps: 30 Days of Code [Python]](Dictionaries_and_Maps.py)
 - [Division [Python]](Python-Division.py)
+- [Equal Stacks [Python]](Equal_Stacks.py)
 - [Exceptions - String to Integer: 30 Days of Code [Python]](Exceptions-String_to_Integer.py)
 - [Find a string [Python]](Find_a_string.py)
 - [Find the Runner-Up Score [Python]](Find_the_Runner-Up_Score.py)
