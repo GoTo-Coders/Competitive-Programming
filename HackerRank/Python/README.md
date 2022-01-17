@@ -63,6 +63,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Reverse a doubly linked list [Python]](Reverse_a_doubly_linked_list.py)
 - [Reverese a linked list [Python]](Reverse_a_linked_list.py)
 - [Scope: 30 Days of Code [Python]](Scope.py)
+- [Sorting: 30 Days of Code [Python]](Sorting.py)
 - [Sparse Arrays [Python]](Sparse_Arrays.py)
 - [String Validators [Python]](String-Validators.py)
 - [String Split and Join [Python]](String_Split_and_Join.py)
