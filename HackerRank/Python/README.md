@@ -47,6 +47,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Lowest Common Ancestor [Python]](Lowest_Common_Ancestor.py)
 - [Maximum Element [Python]](Maximum_Element.py)
 - [Merge two sorted linked lists [Python]](Merge_two_sorted_linked_lists.py)
+- [More Exceptions: 30 Days of Code [Python]](More_Exceptions.py)
 - [Mutations [Python]](Mutations.py)
 - [Nested List [Python]](Nested-List.py)
 - [Operators: 30 Days of Code [Python]](Operators.py)
