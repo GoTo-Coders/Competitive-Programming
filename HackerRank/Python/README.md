@@ -39,7 +39,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Left Rotation [Python]](Left_Rotation.py)
 - [Let's Review: 30 Days of Code [Python]](Let's_Review.py)
 - [Level Order Traversal [Python]](Level_Order_Traversal.py)
-- [Linked List: 30 Days of Code [Python]](Linked_List.py
+- [Linked List: 30 Days of Code [Python]](Linked_List.py)
 - [List Comprehensions [Python]](List-Comprehensions.py)
 - [Lists [Python]](Lists.py)
 - [Loops [Python]](Loops.py)
