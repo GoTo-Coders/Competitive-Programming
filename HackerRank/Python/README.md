@@ -55,6 +55,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [More Linked Lists: 30 Days of Code [Python]](More_Linked_Lists.py)
 - [Mutations [Python]](Mutations.py)
 - [Nested List [Python]](Nested-List.py)
+- [Nested Logic: 30 Days of Code [Python]](Nested_Logic.py)
 - [Operators: 30 Days of Code [Python]](Operators.py)
 - [Postorder Traversal [Python]](Postorder_Traversal.py)
 - [Preorder Traversal [Python]](Preorder_Traversal.py)
