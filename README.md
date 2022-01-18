@@ -4,10 +4,11 @@
 <img src="https://github.com/GoTo-Coders/GoTo-Coders.github.io/blob/main/logo.jpg" width="500px">
 </p>
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=orange)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=orange)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![](https://img.shields.io/badge/C-00427E?style=for-the-badge&logo=c&logoColor=darkorange)
+![](https://img.shields.io/badge/C%2B%2B-2B2151?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Java-E06C00?style=for-the-badge&logo=java&logoColor=black)
+![](https://img.shields.io/badge/Python-F7C93C?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/JavaScript-020200?style=for-the-badge&logo=python&logoColor=yellow)
 
 [![GitHub closed issues](https://img.shields.io/github/issues-raw/GoTo-Coders/Competitive-Programming.svg?style=for-the-badge)](https://github.com/GoTo-Coders/DS-Algo/issues)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/GoTo-Coders/Competitive-Programming.svg?style=for-the-badge)](https://github.com/GoTo-Coders/DS-Algo/issues)
