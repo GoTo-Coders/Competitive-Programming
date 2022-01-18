@@ -67,6 +67,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Recursion 3: 30 Days of Code [Python]](Recursion_3.py)
 - [Reverse a doubly linked list [Python]](Reverse_a_doubly_linked_list.py)
 - [Reverese a linked list [Python]](Reverse_a_linked_list.py)
+- [Running Time and Complexity: 30 Days of Code [Python]](Running_Time_and_Complexity.py)
 - [Scope: 30 Days of Code [Python]](Scope.py)
 - [Sorting: 30 Days of Code [Python]](Sorting.py)
 - [Sparse Arrays [Python]](Sparse_Arrays.py)
