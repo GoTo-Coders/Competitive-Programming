@@ -14,6 +14,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [BST Level-Order Traversal: 30 Days of Code [Python]](BST_Level-Order_Traversal.py)
 - [Binary Numbers: 30 Days of Code [Python]](Binary_Numbers.py)
 - [Binary Search Tree : Insertion [Python]](Binary_Search_Tree-Insertion.py)
+- [Binary Search Trees: 30 Days of Code [Python]]Binary_Search_Trees.py)
 - [Cycle Detection [Python]](Cycle_Detection.py)
 - [Compare two linked lists [Python]](Compare_two_linked_lists.py)
 - [Delete a Node [Python]](Delete_a_Node.py)
