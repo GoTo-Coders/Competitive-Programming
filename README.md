@@ -44,6 +44,7 @@ We bring amazing people together to code algorithms and share our work for the b
       - [C++](https://github.com/GoTo-Coders/Competitive-Programming/tree/main/HackerRank/C%20Plus%20Plus)
       - [Java](/HackerRank/Java)
       - [Python](/HackerRank/Python)
+      - [JavaScript](/HackerRank/JavaScript)
   - [LeetCode](/LeetCode)
       - [C++](https://github.com/GoTo-Coders/Competitive-Programming/tree/main/LeetCode/C%20Plus%20Plus)
       - [Java](/LeetCode/Java)
