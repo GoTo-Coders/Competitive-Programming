@@ -65,6 +65,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Python If-Else [Python]](Python_If-Else.py)
 - [Queues and Stacks: 30 Days of Code [Python]](Queues_and_Stacks.py)
 - [Recursion 3: 30 Days of Code [Python]](Recursion_3.py)
+- [RegEx, Patterns, and Intro to Databases: 30 Days of Code [Python]](RegEx-Patterns-and-Intro_to_Databases.py)
 - [Reverse a doubly linked list [Python]](Reverse_a_doubly_linked_list.py)
 - [Reverese a linked list [Python]](Reverse_a_linked_list.py)
 - [Running Time and Complexity: 30 Days of Code [Python]](Running_Time_and_Complexity.py)
