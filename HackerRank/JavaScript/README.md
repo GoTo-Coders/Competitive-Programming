@@ -5,5 +5,6 @@ The goal is to have in a single place for all possible **HackerRank** : **Compet
 Please create an issue if you wish to add code in a language that is not currently here. Do not create folders in your submissions unless specifically told to do so.
 
 # Problems:
+- [Arithmetic Operators: 30 Days of Code [JavaScript]](Arithmetic_Operators.js)
 - [Data Types: 30 Days of Code [JavaScript]](Data_Types.js)
 - [Hello World: 30 Days of Code [JavaScript]](Hello-World!.js)
