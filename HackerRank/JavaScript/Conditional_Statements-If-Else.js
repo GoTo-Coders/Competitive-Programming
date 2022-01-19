@@ -17,4 +17,5 @@ function getGrade(score) {
         grade = 'A';
     
     return grade;
+    
 }
