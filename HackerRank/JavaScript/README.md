@@ -12,3 +12,4 @@ Please create an issue if you wish to add code in a language that is not current
 - [Functions: 30 Days of Code [JavaScript]](Functions.js)
 - [Hello World: 30 Days of Code [JavaScript]](Hello-World!.js)
 - [Let and Const: 30 Days of Code [JavaScript]](Let_and_Const.js)
+- [Loops: 30 Days of Code [JavaScript]](Loops.js)
