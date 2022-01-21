@@ -6,6 +6,7 @@ Please create an issue if you wish to add code in a language that is not current
 
 # Problems:
 - [Arithmetic Operators: 30 Days of Code [JavaScript]](Arithmetic_Operators.js)
+- [Arrow Functions: 30 Days of Code [JavaScript]](Arrow_Functions.js)
 - [Arrays: 30 Days of Code [JavaScript]](Arrays.js)
 - [Classes: 30 Days of Code [JavaScript]](Classes.js)
 - [Conditional Statements: If-Else: 30 Days of Code [JavaScript]](Conditional_Statements-If-Else.js)
