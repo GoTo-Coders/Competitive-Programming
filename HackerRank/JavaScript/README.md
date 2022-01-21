@@ -9,6 +9,8 @@ Please create an issue if you wish to add code in a language that is not current
 - [Arrow Functions: 30 Days of Code [JavaScript]](Arrow_Functions.js)
 - [Arrays: 30 Days of Code [JavaScript]](Arrays.js)
 - [Bitwise Operators: 30 Days of Code [JavaScript]](Bitwise_Operators.js)
+- [Binary Calculator: 30 Days of Code [JavaScript]](Binary_Calculator.txt)
+- [Buttons Container: 30 Days of Code [JavaScript]](Buttons_Container.txt)
 - [Classes: 30 Days of Code [JavaScript]](Classes.js)
 - [Conditional Statements: If-Else: 30 Days of Code [JavaScript]](Conditional_Statements-If-Else.js)
 - [Conditional Statements: Switch: 30 Days of Code [JavaScript]](Conditional_Statements-Switch.js)
