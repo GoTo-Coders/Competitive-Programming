@@ -1,5 +1,7 @@
-HTML:
------
+Link --> https://www.hackerrank.com/challenges/js10-create-a-button/problem
+
+1. HTML:
+--------
 <!DOCTYPE html>
 
 <html>
@@ -14,18 +16,18 @@ HTML:
     </body>
 </html>
 
---------------------------------------------------------------------
-CSS:
----
+
+2. CSS:
+-------
 #btn {
   width: 96px;
   height: 48px;
   font-size: 24px;
 }
 
----------------------------------------------------------------------
-JS:
----
+
+3 JS:
+-----
 function increment() {
   btn.innerHTML++;
 }
