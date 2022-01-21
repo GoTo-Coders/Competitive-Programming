@@ -18,5 +18,6 @@ Please create an issue if you wish to add code in a language that is not current
 - [Inheritance: 30 Days of Code [JavaScript]](Inheritance.js)
 - [Let and Const: 30 Days of Code [JavaScript]](Let_and_Const.js)
 - [Loops: 30 Days of Code [JavaScript]](Loops.js)
+- [Template Literals: 30 Days of Code [JavaScript]](Template_Literals.js)
 - [Throw: 30 Days of Code [JavaScript]](Throw.js)
 - [Try, Catch, and Finally: 30 Days of Code [JavaScript]](Try_Catch_and_Finally.js)
