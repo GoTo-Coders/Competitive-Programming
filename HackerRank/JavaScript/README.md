@@ -13,6 +13,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Conditional Statements: If-Else: 30 Days of Code [JavaScript]](Conditional_Statements-If-Else.js)
 - [Conditional Statements: Switch: 30 Days of Code [JavaScript]](Conditional_Statements-Switch.js)
 - [Count Objects: 30 Days of Code [JavaScript]](Count_Objects.js)
+- [Create a Button: 30 Days of Code [JavaScript]](Create_a_Button.txt)
 - [Create a Rectangle Object: 30 Days of Code [JavaScript]](Create_a_Rectangle_Object.js)
 - [Data Types: 30 Days of Code [JavaScript]](Data_Types.js)
 - [Functions: 30 Days of Code [JavaScript]](Functions.js)
