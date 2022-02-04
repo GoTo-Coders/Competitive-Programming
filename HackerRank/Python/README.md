@@ -76,6 +76,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Scope: 30 Days of Code [Python]](Scope.py)
 - [Sorting: 30 Days of Code [Python]](Sorting.py)
 - [Sparse Arrays [Python]](Sparse_Arrays.py)
+- [Standard Deviation: 10 Days of Statistics [Python]](Standard_Deviation.py)
 - [String Validators [Python]](String-Validators.py)
 - [String Split and Join [Python]](String_Split_and_Join.py)
 - [sWAP cASE [Python]](sWAP_cASE.py)
