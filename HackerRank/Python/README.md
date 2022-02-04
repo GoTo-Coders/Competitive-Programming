@@ -65,6 +65,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Print the Elements of a Linked List [Python]](Print_the_Elements_of_a_Linked-List.py)
 - [Print [Python]](Python-Print.cpp)
 - [Python If-Else [Python]](Python_If-Else.py)
+- [Quartiles: 10 Days of Statistics [Python]](Quartiles.py)
 - [Queues and Stacks: 30 Days of Code [Python]](Queues_and_Stacks.py)
 - [Recursion 3: 30 Days of Code [Python]](Recursion_3.py)
 - [RegEx, Patterns, and Intro to Databases: 30 Days of Code [Python]](RegEx-Patterns-and-Intro_to_Databases.py)
