@@ -11,6 +11,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Arithmetic Operators [Python]](Arithmetic_Operators.py)
 - [Arrays - DS [Python]](Arrays-DS.py)
 - [Arrays: 30 Days of Code [Python]](Arrays.py)
+- [Arrays using NumPy](Arrays_NumPy.py)
 - [BST Level-Order Traversal: 30 Days of Code [Python]](BST_Level-Order_Traversal.py)
 - [Binary Numbers: 30 Days of Code [Python]](Binary_Numbers.py)
 - [Binary Search Tree : Insertion [Python]](Binary_Search_Tree-Insertion.py)
