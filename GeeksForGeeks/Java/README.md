@@ -7,6 +7,7 @@ Please create an issue if you wish to add code in a language that is not current
 # Problems:
 
 - [Binary Tree to DLL [JAVA]](Binary_Tree_to_DLL.java)
+- [Minimum Platforms [JAVA]](Minimum_Platforms.java)
 - [Merge Sort for Linked List [JAVA]](Merge_Sort_for_Linked_List.java)
 - [Merge Without Extra Space [JAVA]](Merge_Without_Extra_Space.java)
 - [Negative weight cycle or BellmanFord Algorithm [JAVA]](Negative_weight_cycle.cpp)
