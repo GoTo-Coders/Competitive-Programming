@@ -30,5 +30,28 @@ Expected Auxiliary Space: O(1)
 # Link --> https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x2041/1/#
 
 # Code:
+class Solution: 
+    def firstAndLast(self, nums, n, target): 
+        low = 0
+        high = n - 1
+        first = -1
+        last = -1
+        
+        while low < n:
+            if nums[low] == target:
+                first = low
+                break
+            low += 1
+            
+        while high >= 0:
+            if nums[high] == target:
+                last = high
+                break
+            high -= 1
+        
+        if first == -1 and last == -1:    
+            return [-1]
+        else:
+            return [first, last]
 
 
