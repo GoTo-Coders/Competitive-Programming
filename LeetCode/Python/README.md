@@ -7,4 +7,5 @@ Please create an issue if you wish to add code in a language that is not current
 # Problems:
 
 - [Binary Search [Python]](704.Binary_Search.py)
+- [Valid Anagram [Python]](242.Valid_Anagram.py)
 
