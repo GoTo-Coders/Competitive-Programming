@@ -7,6 +7,7 @@ Please create an issue if you wish to add code in a language that is not current
 # Problems:
  
 - [Find First and Last Position of Element in Sorted Array [Python]](34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
+- [Generate Parentheses [Python]](22.Generate_Parentheses.py)
 - [Binary Search [Python]](704.Binary_Search.py)
 - [Kth Largest Element in an Array [Python]](215.Kth_Largest_Element_in_an_Array.py)
 - [Symmetric Tree [Python]](101.Symmetric_Tree.py)
