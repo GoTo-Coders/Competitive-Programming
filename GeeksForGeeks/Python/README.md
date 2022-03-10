@@ -9,5 +9,6 @@ Please create an issue if you wish to add code in a language that is not current
 - [Anagram [PYTHON]](Anagram.py)
 - [Find minimum and maximum element in an array [PYTHON]](Find_minimum_and_maximum_element_in_an_array.py)
 - [First and last occurrences of X  [PYTHON]](First_and_last_occurrences_of_X.py)
+- [Generate Parentheses [PYTHON]](Generate_Parentheses.py)
 - [Symmetric Tree [PYTHON]](Symmetric_Tree.py)
 - [Union of two arrays [PYTHON]](Union_of_two_arrays.py)
