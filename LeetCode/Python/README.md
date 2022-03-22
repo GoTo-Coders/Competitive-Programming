@@ -10,6 +10,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Generate Parentheses [Python]](22.Generate_Parentheses.py)
 - [Binary Search [Python]](704.Binary_Search.py)
 - [Kth Largest Element in an Array [Python]](215.Kth_Largest_Element_in_an_Array.py)
+- [Make The String Great [Python]](1544.Make_The_String_Great.py)
 - [Symmetric Tree [Python]](101.Symmetric_Tree.py)
 - [Valid Anagram [Python]](242.Valid_Anagram.py)
 
