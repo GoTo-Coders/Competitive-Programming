@@ -11,6 +11,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Binary Search [Python]](704.Binary_Search.py)
 - [Kth Largest Element in an Array [Python]](215.Kth_Largest_Element_in_an_Array.py)
 - [Make The String Great [Python]](1544.Make_The_String_Great.py)
+- [Subtract the Product and Sum of Digits of an Integer [Python]](1281.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py)
 - [Symmetric Tree [Python]](101.Symmetric_Tree.py)
 - [Valid Anagram [Python]](242.Valid_Anagram.py)
 
