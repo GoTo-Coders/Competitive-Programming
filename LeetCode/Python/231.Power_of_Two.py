@@ -40,7 +40,7 @@ class Solution:
             return False
         else:
             flag = False
-            upper_limit = (n // 2) + 1
+            upper_limit = 30
             for i in range(1, upper_limit):
                 # check = pow(2, i)
                 if pow(2, i) == n:
