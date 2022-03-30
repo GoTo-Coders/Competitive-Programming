@@ -6,6 +6,7 @@ Please create an issue if you wish to add code in a language that is not current
 
 # Problems:
 
+- [Find All Duplicates in an Array](442.Find_All_Duplicates_in_an_Array.py)
 - [Find First and Last Position of Element in Sorted Array [Python]](34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
 - [Generate Parentheses [Python]](22.Generate_Parentheses.py)
 - [Binary Search [Python]](704.Binary_Search.py)
