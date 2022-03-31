@@ -12,4 +12,5 @@ Please create an issue if you wish to add code in a language that is not current
 - [Generate Parentheses [PYTHON]](Generate_Parentheses.py)
 - [Segregate 0s and 1s [PYTHON]](Segregate_0s_and_1s.py)
 - [Symmetric Tree [PYTHON]](Symmetric_Tree.py)
+- [Triplet Sum in Array [PYTHON]](Triplet_Sum_in_Array.py)
 - [Union of two arrays [PYTHON]](Union_of_two_arrays.py)
