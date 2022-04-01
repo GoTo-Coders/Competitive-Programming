@@ -15,6 +15,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Make The String Great [Python]](1544.Make_The_String_Great.py)
 - [Number Complement [Python]](476.Number_Complement.py)
 - [Number of 1 Bits [Python]](191.Number_of_1_Bits.py)
+- [Find Peak Element [Python]](162.Find_Peak_Element.py)
 - [Power of Two [Python]](231.Power_of_Two.py)
 - [Reverse Integer [Python]](7.Reverse_Integer.py)
 - [Subtract the Product and Sum of Digits of an Integer [Python]](1281.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py)
