@@ -10,6 +10,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Find minimum and maximum element in an array [PYTHON]](Find_minimum_and_maximum_element_in_an_array.py)
 - [First and last occurrences of X  [PYTHON]](First_and_last_occurrences_of_X.py)
 - [Generate Parentheses [PYTHON]](Generate_Parentheses.py)
+- [Number of occurrence [PYTHON]](Number_of_occurrence.py)
 - [Segregate 0s and 1s [PYTHON]](Segregate_0s_and_1s.py)
 - [Sort an array of 0s, 1s and 2s [PYTHON]](Sort_an_array_of_0s_1s_and_2s.py)
 - [Symmetric Tree [PYTHON]](Symmetric_Tree.py)
