@@ -6,6 +6,7 @@ Please create an issue if you wish to add code in a language that is not current
 
 # Problems:
 
+- [Allocate minimum number of pages [PYTHON]](Allocate_minimum_number_of_pages.py)
 - [Anagram [PYTHON]](Anagram.py)
 - [Find minimum and maximum element in an array [PYTHON]](Find_minimum_and_maximum_element_in_an_array.py)
 - [First and last occurrences of X  [PYTHON]](First_and_last_occurrences_of_X.py)
