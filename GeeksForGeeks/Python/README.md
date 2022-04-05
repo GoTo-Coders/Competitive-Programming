@@ -15,5 +15,6 @@ Please create an issue if you wish to add code in a language that is not current
 - [Segregate 0s and 1s [PYTHON]](Segregate_0s_and_1s.py)
 - [Sort an array of 0s, 1s and 2s [PYTHON]](Sort_an_array_of_0s_1s_and_2s.py)
 - [Symmetric Tree [PYTHON]](Symmetric_Tree.py)
+- [The Painter's Partition Problem-II [PYTHON]](The_Painter's_Partition_Problem-II.py)
 - [Triplet Sum in Array [PYTHON]](Triplet_Sum_in_Array.py)
 - [Union of two arrays [PYTHON]](Union_of_two_arrays.py)
