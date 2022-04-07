@@ -13,6 +13,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Binary Search [Python]](704.Binary_Search.py)
 - [Complement of Base 10 Integer[Python]](1009.Complement_of_Base_10_Integer.py)
 - [Kth Largest Element in an Array [Python]](215.Kth_Largest_Element_in_an_Array.py)
+- [Last Stone Weight [Python]](1046.Last_Stone_Weight.py)
 - [Make The String Great [Python]](1544.Make_The_String_Great.py)
 - [Number Complement [Python]](476.Number_Complement.py)
 - [Number of 1 Bits [Python]](191.Number_of_1_Bits.py)
