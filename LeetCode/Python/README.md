@@ -9,6 +9,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Find All Duplicates in an Array](442.Find_All_Duplicates_in_an_Array.py)
 - [Find First and Last Position of Element in Sorted Array [Python]](34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
 - [Find Minimum in Rotated Sorted Array [Python]](153.FindMinimum_in_Rotated_Sorted_Array.py)
+- [Fizz Buzz [Python]](412.Fizz_Buzz.py)
 - [Generate Parentheses [Python]](22.Generate_Parentheses.py)
 - [Binary Search [Python]](704.Binary_Search.py)
 - [Complement of Base 10 Integer[Python]](1009.Complement_of_Base_10_Integer.py)
