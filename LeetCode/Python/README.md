@@ -17,6 +17,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Kth Largest Element in an Array [Python]](215.Kth_Largest_Element_in_an_Array.py)
 - [Last Stone Weight [Python]](1046.Last_Stone_Weight.py)
 - [Make The String Great [Python]](1544.Make_The_String_Great.py)
+- [Merge Sorted Array [Python]](88.Merge_Sorted_Array.py)
 - [Number Complement [Python]](476.Number_Complement.py)
 - [Number of 1 Bits [Python]](191.Number_of_1_Bits.py)
 - [Find Peak Element [Python]](162.Find_Peak_Element.py)
