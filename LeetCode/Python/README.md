@@ -18,6 +18,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Number of 1 Bits [Python]](191.Number_of_1_Bits.py)
 - [Find Peak Element [Python]](162.Find_Peak_Element.py)
 - [Power of Two [Python]](231.Power_of_Two.py)
+- [Print in Order [Python]](1114.Print_in_Order.py)
 - [Reverse Integer [Python]](7.Reverse_Integer.py)
 - [Subtract the Product and Sum of Digits of an Integer [Python]](1281.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py)
 - [Sqrt(x) [Python]](69.Sqrt(x).py)
