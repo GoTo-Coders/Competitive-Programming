@@ -15,6 +15,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Find minimum and maximum element in an array [PYTHON]](Find_minimum_and_maximum_element_in_an_array.py)
 - [First and last occurrences of X [PYTHON]](First_and_last_occurrences_of_X.py)
 - [Generate Parentheses [PYTHON]](Generate_Parentheses.py)
+- [Kth smallest element [PYTHON]](Kth_smallest_element.py)
 - [Number of occurrence [PYTHON]](Number_of_occurrence.py)
 - [Palindrome Sentence [PYTHON]](Palindrome_Sentence.py)
 - [Reverse array in groups [PYTHON]](Reverse_array_in_groups.py)
