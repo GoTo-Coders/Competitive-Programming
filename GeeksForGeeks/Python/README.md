@@ -13,6 +13,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [First and last occurrences of X  [PYTHON]](First_and_last_occurrences_of_X.py)
 - [Generate Parentheses [PYTHON]](Generate_Parentheses.py)
 - [Number of occurrence [PYTHON]](Number_of_occurrence.py)
+- [Palindrome Sentence [PYTHON]](Palindrome_Sentence.py)
 - [Rotate Array [PYTHON]](Rotate_Array.py)
 - [Selection Sort [PYTHON]](Selection_Sort.py)
 - [Segregate 0s and 1s [PYTHON]](Segregate_0s_and_1s.py)
