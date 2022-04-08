@@ -6,7 +6,7 @@ Please create an issue if you wish to add code in a language that is not current
 
 # Problems:
 
-- [Find All Duplicates in an Array](442.Find_All_Duplicates_in_an_Array.py)
+- [Find All Duplicates in an Array [Python]](442.Find_All_Duplicates_in_an_Array.py)
 - [Find First and Last Position of Element in Sorted Array [Python]](34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
 - [Find Minimum in Rotated Sorted Array [Python]](153.FindMinimum_in_Rotated_Sorted_Array.py)
 - [Fizz Buzz [Python]](412.Fizz_Buzz.py)
