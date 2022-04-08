@@ -6,6 +6,7 @@ Please create an issue if you wish to add code in a language that is not current
 
 # Problems:
 
+- [Add two numbers represented by two arrays [PYTHON]](Add_two_numbers_represented_by_two_arrays.py)
 - [Allocate minimum number of pages [PYTHON]](Allocate_minimum_number_of_pages.py)
 - [Anagram [PYTHON]](Anagram.py)
 - [Find minimum and maximum element in an array [PYTHON]](Find_minimum_and_maximum_element_in_an_array.py)
