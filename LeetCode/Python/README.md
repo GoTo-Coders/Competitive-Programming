@@ -23,6 +23,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Number Complement [Python]](476.Number_Complement.py)
 - [Number of 1 Bits [Python]](191.Number_of_1_Bits.py)
 - [Find Peak Element [Python]](162.Find_Peak_Element.py)
+- [Palindrome Number [Python]](9.Palindrome_Number.py)
 - [Power of Two [Python]](231.Power_of_Two.py)
 - [Print in Order [Python]](1114.Print_in_Order.py)
 - [Reverse Integer [Python]](7.Reverse_Integer.py)
