@@ -32,6 +32,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Subtract the Product and Sum of Digits of an Integer [Python]](1281.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py)
 - [Sqrt(x) [Python]](69.Sqrt(x).py)
 - [Symmetric Tree [Python]](101.Symmetric_Tree.py)
+- [Top K Frequent Elements [Python]](347.Top_K_Frequent_Elements.py)
 - [Unique Number of Occurrences [Python]](1207.Unique_Number_of_Occurrences.py)
 - [Valid Anagram [Python]](242.Valid_Anagram.py)
 - [Valid Palindrome [Python]](125.Valid_Palindrome.py)
