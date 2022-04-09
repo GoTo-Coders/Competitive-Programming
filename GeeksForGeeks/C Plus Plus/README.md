@@ -46,6 +46,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Diameter of Binary Tree in O(n) [CPP]](Diameter_of_Binary_Tree_in_O-n.cpp)
 - [Diameter of Binary Tree in O(n*n) [CPP]](Diameter_of_Binary_Tree_in_O-nxn.cpp)
 - [Duplicate subtree in Binary Tree [CPP]](Duplicate_subtree_in_Binary_Tree.cpp) 
+- [Encrypt the string - 1 [CPP]](Encrypt_the_string-1.cpp)
 - [Evaluation of Postfix Expression [CPP]](Evaluation_of_Postfix_Expression.cpp)
 - [Expression contains redundant bracket or not](Expression_contains_redundant_bracket_or_not.cpp)
 - [Factorials of large numbers [CPP]](Factorials_of_large_numbers.cpp)
