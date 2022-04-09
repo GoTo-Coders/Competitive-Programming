@@ -26,6 +26,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Palindrome Number [Python]](9.Palindrome_Number.py)
 - [Power of Two [Python]](231.Power_of_Two.py)
 - [Print in Order [Python]](1114.Print_in_Order.py)
+- [Remove All Occurrences of a Substring [Python]](1910.Remove_All_Occurrences_of_a_Substring.py)
 - [Reverse Integer [Python]](7.Reverse_Integer.py)
 - [Reverse Words in a String [Python]](151.Reverse_Words_in_a_String.py)
 - [Rotate Array [Python]](189.Rotate_Array.py)
