@@ -6,6 +6,7 @@ Please create an issue if you wish to add code in a language that is not current
 
 # Problems:
 
+- [Baseball Game [Python]](682.Baseball_Game.py)
 - [Check if Array Is Sorted and Rotated [Python]](1752.Check_if_Array_Is_Sorted_and|_Rotated.py)
 - [Find All Duplicates in an Array [Python]](442.Find_All_Duplicates_in_an_Array.py)
 - [Find First and Last Position of Element in Sorted Array [Python]](34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
