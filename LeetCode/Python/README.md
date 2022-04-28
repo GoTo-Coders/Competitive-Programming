@@ -19,6 +19,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Count Primes [Python]](204.Count_Primes.py)
 - [Game of Life [Python]](289.Game_of_Life.py)
 - [Kth Largest Element in an Array [Python]](215.Kth_Largest_Element_in_an_Array.py)
+- [Kth Missing Positive Number [Python]](1539.Kth_Missing_Positive_Number.py)
 - [Last Stone Weight [Python]](1046.Last_Stone_Weight.py)
 - [Make The String Great [Python]](1544.Make_The_String_Great.py)
 - [Merge Sorted Array [Python]](88.Merge_Sorted_Array.py)
