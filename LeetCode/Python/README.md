@@ -45,7 +45,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [String Compression [Python]](443.String_Compression.py)
 - [Symmetric Tree [Python]](101.Symmetric_Tree.py)
 - [Top K Frequent Elements [Python]](347.Top_K_Frequent_Elements.py)
-- [Unique Email Addresses [Python]](Unique_Email_Addresses.py)
+- [Unique Email Addresses [Python]](929.Unique_Email_Addresses.py)
 - [Unique Number of Occurrences [Python]](1207.Unique_Number_of_Occurrences.py)
 - [Valid Anagram [Python]](242.Valid_Anagram.py)
 - [Valid Palindrome [Python]](125.Valid_Palindrome.py)
