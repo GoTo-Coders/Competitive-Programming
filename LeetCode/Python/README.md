@@ -23,6 +23,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Last Stone Weight [Python]](1046.Last_Stone_Weight.py)
 - [Make The String Great [Python]](1544.Make_The_String_Great.py)
 - [Merge Sorted Array [Python]](88.Merge_Sorted_Array.py)
+- [Min Cost Climbing Stairs [Python]](746.Min_Cost_Climbing_Stairs.py)
 - [Move Zeroes [Python]](283.Move_Zeroes.py)
 - [Number Complement [Python]](476.Number_Complement.py)
 - [Number of 1 Bits [Python]](191.Number_of_1_Bits.py)
