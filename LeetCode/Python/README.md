@@ -42,6 +42,8 @@ Please create an issue if you wish to add code in a language that is not current
 - [Shift 2D Grid [Python]](1260.Shift_2D_Grid.py)
 - [Spiral Matrix [Python]](54.Spiral_Matrix.py)
 - [Subtract the Product and Sum of Digits of an Integer [Python]](1281.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py)
+- [Subsets [Python]](78.Subsets.py )
+- [Subsets II [Python]](90.Subsets_II.py)
 - [Sqrt(x) [Python]](69.Sqrt(x).py)
 - [String Compression [Python]](443.String_Compression.py)
 - [Symmetric Tree [Python]](101.Symmetric_Tree.py)
