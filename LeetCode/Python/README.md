@@ -30,6 +30,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Find Peak Element [Python]](162.Find_Peak_Element.py)
 - [Letter Combinations of a Phone Number [Python]](17.Letter_Combinations_of_a_Phone_Number.py)
 - [Palindrome Number [Python]](9.Palindrome_Number.py)
+- [Permutations [Python]](46.Permutations.py)
 - [Power of Two [Python]](231.Power_of_Two.py)
 - [Print in Order [Python]](1114.Print_in_Order.py)
 - [Remove All Adjacent Duplicates In String [Python]](1047.Remove_All_Adjacent_Duplicates_In_String.py)
