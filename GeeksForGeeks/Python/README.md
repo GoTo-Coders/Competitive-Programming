@@ -20,6 +20,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Maximum of all subarrays of size k [PYTHON]](Maximum_of_all_subarrays_of_size_k.py)
 - [Maximum sum leaf to root path [PYTHON]](Maximum_sum_leaf_to_root_path.py)
 - [Number of occurrence [PYTHON]](Number_of_occurrence.py)
+- [Palindromic Array [PYTHON]](Palindromic_Array.py)
 - [Palindrome Sentence [PYTHON]](Palindrome_Sentence.py)
 - [Reverse array in groups [PYTHON]](Reverse_array_in_groups.py)
 - [Reverse words in a given string [PYTHON]](Reverse_words_in_a_given_string.py)
