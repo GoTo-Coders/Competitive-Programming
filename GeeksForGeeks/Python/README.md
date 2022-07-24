@@ -10,6 +10,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Allocate minimum number of pages [PYTHON]](Allocate_minimum_number_of_pages.py)
 - [Anagram [PYTHON]](Anagram.py)
 - [Binary Search [PYTHON]](Binary_Search.py)
+- [Bitonic Point [PYTHON]](Bitonic_Point.py)
 - [Check if two arrays are equal or not [PYTHON]](Check_if_two_arrays_are_equal_or_not.py)
 - [Find all pairs with a given sum [PYTHON]](Find_all_pairs_with_a_given_sum.py)
 - [Find minimum and maximum element in an array [PYTHON]](Find_minimum_and_maximum_element_in_an_array.py)
