@@ -17,6 +17,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [First and last occurrences of X [PYTHON]](First_and_last_occurrences_of_X.py)
 - [Generate Parentheses [PYTHON]](Generate_Parentheses.py)
 - [Kth smallest element [PYTHON]](Kth_smallest_element.py)
+- [Maximum of all subarrays of size k [PYTHON]](Maximum_of_all_subarrays_of_size_k.py)
 - [Maximum sum leaf to root path [PYTHON]](Maximum_sum_leaf_to_root_path.py)
 - [Number of occurrence [PYTHON]](Number_of_occurrence.py)
 - [Palindrome Sentence [PYTHON]](Palindrome_Sentence.py)
