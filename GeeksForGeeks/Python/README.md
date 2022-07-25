@@ -18,6 +18,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [First and last occurrences of X [PYTHON]](First_and_last_occurrences_of_X.py)
 - [Generate Parentheses [PYTHON]](Generate_Parentheses.py)
 - [Implement stack using array [PYTHON]](Implement_stack_using_array.py)
+- [Implement Queue using array [PYTHON]](Implement_Queue_using_array.py)
 - [Kth smallest element [PYTHON]](Kth_smallest_element.py)
 - [Minimum Sum of Absolute Differences of Pairs [PYTHON]](Minimum Sum_of_Absolute_Differences_of_Pairs.py)
 - [Maximum of all subarrays of size k [PYTHON]](Maximum_of_all_subarrays_of_size_k.py)
