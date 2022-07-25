@@ -58,6 +58,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Find maximum sum possible equal sum of three stacks [CPP]](Find_maximum_sum_possible_equal_sum_of_three_stacks.cpp)
 - [Find whether it is possible to finish all tasks or not from given dependencies [CPP]](Find_whether_it_is_possible_to_finish_all_tasks_or_not_from_given_dependencies.cpp)
 - [First and last occurrences of X [CPP]](First_and_last_occurrences_of_X.cpp)
+- [First element to occur k times [CPP]](First_element_to_occur_k_times.cpp)
 - [First node of loop in list [CPP]](First_node_of_loop_in_list.cpp)
 - [First non-repeating character in a stream [CPP]](First_non-repeating_character_in_a_stream.cpp)
 - [Flatten BST to a list [CPP]](Flatten_BST_to_list.cpp)
