@@ -1,6 +1,6 @@
 /*
 Problem Statement:
------------------
+------------------
 Given an array of non-negative integers. Our task is to find minimum number of elements such that their sum should be greater than the sum of rest of the elements of the array.
 
 Examples : 
