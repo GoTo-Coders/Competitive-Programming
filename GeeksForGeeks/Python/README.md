@@ -21,7 +21,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Implement stack using array [PYTHON]](Implement_stack_using_array.py)
 - [Implement Queue using array [PYTHON]](Implement_Queue_using_array.py)
 - [Kth smallest element [PYTHON]](Kth_smallest_element.py)
-- [Minimum Sum of Absolute Differences of Pairs [PYTHON]](Minimum Sum_of_Absolute_Differences_of_Pairs.py)
+- [Minimum Sum of Absolute Differences of Pairs [PYTHON]](Minimum_Sum_of_Absolute_Differences_of_Pairs.py)
 - [Maximum of all subarrays of size k [PYTHON]](Maximum_of_all_subarrays_of_size_k.py)
 - [Maximum sum leaf to root path [PYTHON]](Maximum_sum_leaf_to_root_path.py)
 - [Number of occurrence [PYTHON]](Number_of_occurrence.py)
