@@ -4,4 +4,7 @@ The goal is to have in a single place for all possible **InterviewBit** : **Comp
 # GuideLine For Contribution-
 Please create an issue if you wish to add code in a language that is not currently here. Do not create folders in your submissions unless specifically told to do so.
 
+# Problems:
+
+- [Bulbs - Greedy Algorithm [Python]](Bulbs.py)
 
