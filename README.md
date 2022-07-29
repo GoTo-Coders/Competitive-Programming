@@ -50,6 +50,10 @@ We bring amazing people together to code algorithms and share our work for the b
       - [C++](https://github.com/GoTo-Coders/Competitive-Programming/tree/main/LeetCode/C%20Plus%20Plus)
       - [Java](/LeetCode/Java)
       - [Python](/LeetCode/Python)
+  - [InterviewBit](/InterviewBit)
+      - [C++](https://github.com/GoTo-Coders/Competitive-Programming/tree/main/InterviewBit/C%20Plus%20Plus)
+      - [Java](/InterviewBit/Java)
+      - [Python](/InterviewBit/Python)
   - [Other Platforms](/Others)
 
 ## Guidelines for contribution:
