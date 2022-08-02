@@ -15,6 +15,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Check if two arrays are equal or not [PYTHON]](Check_if_two_arrays_are_equal_or_not.py)
 - [Convert array into Zig-Zag fashion [PYTHON]](Convert_array_into_Zig-Zag_fashion.py)
 - [Find all pairs with a given sum [PYTHON]](Find_all_pairs_with_a_given_sum.py)
+- [Find first repeated character [PYTHON]](Find_first_repeated_character.py
 - [Find the element that appears once in sorted array [PYTHON]](Find_the_element_that_appears_once_in_sorted_array.py)
 - [Find minimum and maximum element in an array [PYTHON]](Find_minimum_and_maximum_element_in_an_array.py)
 - [First and last occurrences of X [PYTHON]](First_and_last_occurrences_of_X.py)
