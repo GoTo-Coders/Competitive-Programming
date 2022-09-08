@@ -42,6 +42,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Search a 2D Matrix [Python]](74.Search_a_2D_Matrix.py)
 - [Search a 2D Matrix - II [Python]](240.Search_a_2D_Matrix-II.py)
 - [Shift 2D Grid [Python]](1260.Shift_2D_Grid.py)
+- [Simplify Path [Python]](71.Simplify_Path.py)
 - [Spiral Matrix [Python]](54.Spiral_Matrix.py)
 - [Subtract the Product and Sum of Digits of an Integer [Python]](1281.Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.py)
 - [Subsets [Python]](78.Subsets.py )
