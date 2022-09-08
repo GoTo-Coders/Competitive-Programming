@@ -47,8 +47,10 @@ class Solution:
         answer = "/"
         
         PATH = path.split("/")
-    
-        for i in PATH:
+        
+        # we can do this without using extra list, we can write   
+        # for i in path.split("/"):
+        for i in PATH:      
             if i == "" or i == ".":
                 pass 
             elif i == "..":
