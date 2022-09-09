@@ -9,5 +9,5 @@ Please create an issue if you wish to add code in a language that is not current
 - [Bulbs - Greedy Algorithm [Python]](Bulbs.py)
 - [Disjoint Intervals [Python]](Disjoint_Intervals.py)
 - [Highest Product [Python]](Highest_Product.py)
-- [Min Stack [Python](Min_Stack.py)
+- [Min Stack [Python]](Min_Stack.py)
 
