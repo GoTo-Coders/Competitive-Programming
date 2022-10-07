@@ -23,6 +23,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Last Stone Weight [Python]](1046.Last_Stone_Weight.py)
 - [Make The String Great [Python]](1544.Make_The_String_Great.py)
 - [Merge Sorted Array [Python]](88.Merge_Sorted_Array.py)
+- [Minimum Remove to Make Valid Parentheses [Python]](1249.Minimum_Remove_to_Make_Valid_Parentheses.py)
 - [Min Cost Climbing Stairs [Python]](746.Min_Cost_Climbing_Stairs.py)
 - [Min Stack [Python]](155.Min_Stack.py)
 - [Move Zeroes [Python]](283.Move_Zeroes.py)
