@@ -33,6 +33,8 @@ Only one valid answer exists.
 # Code:
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        """
+        # O(N^2) Approach:
         answer = []
         for i in range(len(nums)-1):
             answer.clear()
@@ -45,3 +47,17 @@ class Solution:
                 break
 
         return answer
+        """
+
+        # O(N) i.e. hash_table approach:
+        hash_table = {}
+
+        for i, num in enumerate(nums):
+            remaining = target - num
+            if remaining in hash_table:
+                return [hash_table[remaining], i]
+
+            # filling the number in hash_table (number-index form)
+            hash_table[num] = i
+
+        return []
