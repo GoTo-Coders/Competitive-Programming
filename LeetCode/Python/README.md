@@ -40,6 +40,7 @@ Please create an issue if you wish to add code in a language that is not current
 - [Remove All Occurrences of a Substring [Python]](1910.Remove_All_Occurrences_of_a_Substring.py)
 - [Reverse Integer [Python]](7.Reverse_Integer.py)
 - [Reverse Words in a String [Python]](151.Reverse_Words_in_a_String.py)
+- [Roman to Integer [Python]](13.Roman_to_Integer.py)
 - [Rotate Array [Python]](189.Rotate_Array.py)
 - [Rotate Image [Python]](48.Rotate_Image.py)
 - [Search a 2D Matrix [Python]](74.Search_a_2D_Matrix.py)
