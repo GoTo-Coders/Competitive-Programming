@@ -5,19 +5,19 @@ The goal is to have in a single place for all possible **LeetCode** : **Competit
 Please create an issue if you wish to add code in a language that is not currently here. Do not create folders in your submissions unless specifically told to do so.
 
 # Problems:
-
 - [Baseball Game [Python]](682.Baseball_Game.py)
+- [Binary Search [Python]](704.Binary_Search.py)
 - [Check if Array Is Sorted and Rotated [Python]](1752.Check_if_Array_Is_Sorted_and|_Rotated.py)
+- [Complement of Base 10 Integer[Python]](1009.Complement_of_Base_10_Integer.py)
+- [Count Primes [Python]](204.Count_Primes.py)
 - [Find All Duplicates in an Array [Python]](442.Find_All_Duplicates_in_an_Array.py)
 - [Find First and Last Position of Element in Sorted Array [Python]](34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
 - [Find Minimum in Rotated Sorted Array [Python]](153.FindMinimum_in_Rotated_Sorted_Array.py)
+- [Find Smallest Letter Greater Than Target [Python]](744.Find_Smallest_Letter_Greater_Than_Target.py)
 - [Fizz Buzz [Python]](412.Fizz_Buzz.py)
 - [Fizz Buzz Multithreaded [Python]](1195.Fizz_Buzz_Multithreaded.py)
-- [Generate Parentheses [Python]](22.Generate_Parentheses.py)
-- [Binary Search [Python]](704.Binary_Search.py)
-- [Complement of Base 10 Integer[Python]](1009.Complement_of_Base_10_Integer.py)
-- [Count Primes [Python]](204.Count_Primes.py)
 - [Game of Life [Python]](289.Game_of_Life.py)
+- [Generate Parentheses [Python]](22.Generate_Parentheses.py)
 - [Kth Largest Element in an Array [Python]](215.Kth_Largest_Element_in_an_Array.py)
 - [Kth Missing Positive Number [Python]](1539.Kth_Missing_Positive_Number.py)
 - [Last Stone Weight [Python]](1046.Last_Stone_Weight.py)
